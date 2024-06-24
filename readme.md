@@ -85,3 +85,11 @@ endpoint: /customers
 
 GET Method
 endpoint: /customers/:customer
+
+# Deployed URL
+
+https://hall-booking-2mrf.onrender.com
+
+# POSTMAN DOCUMENT URL
+
+https://documenter.getpostman.com/view/34880027/2sA3XWdzJi
